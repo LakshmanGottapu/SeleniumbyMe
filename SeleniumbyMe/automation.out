@@ -1,0 +1,6 @@
+load all the properties inherited from the parent class BasicTest
+launch the chromebrowser
+navigate the driver to https://www.amazon.com
+selected the option Books in the dropdownbox
+Text _bags_ has been written in the searchbox
+search button is clicked
